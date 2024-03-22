@@ -1,0 +1,6 @@
+#python 3.6
+pygame
+opencv-python
+pytorch 
+numpy
+tensorboardX
